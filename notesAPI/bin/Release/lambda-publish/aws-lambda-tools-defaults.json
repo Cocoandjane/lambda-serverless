@@ -1,0 +1,10 @@
+{
+    "profile": "",
+    "region": "us-west-2",
+    "configuration": "Release",
+    "package-type": "image",
+    "function-memory-size": 1024,
+    "function-timeout": 30,
+    "image-command": "notesAPI",
+    "docker-host-build-output-dir": "./bin/Release/lambda-publish"
+  }
